@@ -1,0 +1,6 @@
+-> Simple reflex agents
+-> Model-based agents
+-> Goal-based agents
+-> Utility-based agents
+-> Learning agents
+-> Hierarchical agents

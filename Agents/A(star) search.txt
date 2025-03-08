@@ -1,0 +1,5 @@
+A* Search
+Evaluation function f(n) = g(n) + h(n)
+g(n) = cost so far to reach n
+f(n) = extimated cost to goal from n
+h(n) = estimated total cost of path through n to goal

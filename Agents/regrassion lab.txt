@@ -1,0 +1,3 @@
+csv -> relational data
+
+    predictor variabes | response variable

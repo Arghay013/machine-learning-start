@@ -1,0 +1,2 @@
+romania map
+heurestic value -> h(n)
